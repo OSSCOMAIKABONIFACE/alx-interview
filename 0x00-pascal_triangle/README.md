@@ -1,1 +1,1 @@
-pascal triangle
+pascals triangle
